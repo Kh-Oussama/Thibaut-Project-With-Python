@@ -1,0 +1,145 @@
+URL,Author,Author Description,Publication Date,Votes,Review
+https://www.quora.com/Do-programmers-really-like-Scrum,Alexandra Balean,Software Developer (2014–present),2019,44,"Just like it is sometimes said about communism: it depends on implementation. No, I’m joking. Scrum is awful, for me at least. I had witnessed only 2 implementations of scrum in my professional life, and both turned out to be highly bureaucratic and reduced productivity by wasting a lot of the developers’ time, and by inhibiting their creativity and autonomy. Some negative aspects include, and are not limited to:
+1. It is advertised to empower business people - faster, more regular deliveries, they get to pick (and change at any moment) what gets worked on, they get estimates, therefore they c
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Jeremy Stafford,Software Engineer/Architect,2021,84,"I’ve always felt that the biggest problem with Scrum isn’t Scrum. It’s non-engineer type people trying to bastardize Scrum into something that works for them. We’ve had an uprising and have kicked managers out of the Scrum process and it has been amazing, so here’s my opinion on it:
+Scrum is a development process, not a people management process
+In short, separate the Scrum process from project management. Leaders will coordinate with each other, but they shall not intermingle processes, and engineers will only be involved with the parts in which they have a stake (like grooming or system design
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Parantap Samajdar,"Automation Architect, Pre-Sales consultant",2020,1.5K,"Scrum, like open workspaces or day long requirement gathering meetings, is one of those things that is never liked by anyone who actually needs to participate in it. Only people who likes it are (1) people who gets employment because of it, e.g. professional scrum master (whatever that means) or agile coaches (it does not mean anything - another free money role like diversity champion); or (2) People who needs the visual and perception of lot of work being done, without having to care about what actually is being done.
+So business analysts, developers, testers hate scrums with a passion. But se
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Stephen Burns,Developing product for 25+ years,2019,17,"I’m ambivalent when Scrum is done tolerably well. I’ve yet to experience it being done very well. In practice, it’s typically a little better than waterfall. In theory it should be a lot better.
+Some issues with Scrum:
+it can be an enabler for micro-management. Everything the team is working on has to be visible on the board. Really? This can act as a brake on some pro-active behaviors. Never mind logging time against stories etc. so we can claim those R&D tax offsets
+Ceremonies? c’mon are we in a frickin’ cult?
+does the whole team have to attend every ceremony? Really?
+it relies on open and honest
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Andrew Arnott,Been playing in metal bands for over 30 years now,2022,17,"It does not matter one little bit whether you call the person breathing down your neck a scrum master, project manager, product owner, or Second Lord of the Admiralty.
+If you are doing scrum, you are more than likely being subjected to a culture of micromanagement that prioritises short cuts and sloppy coding in order to achieve short term goals, because the burn down chart is far more important than the actual quality, robustness and maintainability of the product.
+On top of this, there are all the pointless, pointless meetings that leave you with even less time to try to deliver on the total
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,James Barton,"50 years of Software Development, IT Architecture, and R&D.",2019,33,"There are many software tools and standard practices that facilitate rapid development. If you put a competent technically-adept project manager or tech-lead in charge of the team, and if they have experience with similar projects, they will be able to deliver optimumly, in terms of both time and quality. They may or may not use an approach such as Scrum, but it is best to let the person with expertise select the paradigm that has worked for them in such cases.
+Scrum is most useful when there are no experienced leaders on the team so you need to impose some kind of well-defined methodology. Oth
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Clancy Merrick,"B. Sc (Honours) in Computer Science, University of Sydney",2019,93,"Well, I can only speak for myself as a programmer (or rather a Software Developer) who has (tried) to work in at least 2 Scrum teams.
+No, I don’t really like Scrum.
+I really detest Scrum.
+I observed so many flaws in the Scrum process/manifesto that it was literally painful.
+Some, but not all, were:
+The lie that Scrum would enable either faster delivery, more transparency or a better end product. The reality was that it seriously impeded delivery speed, encouraged less transparency and almost never produced any product at all (both projects were “cancelled” by executives).
+The extremist fundamentalis
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Eric Litovsky,Principal Software Engineer at Grey Swan Inc (2014–present),2019,19,"Let’s try a thought experiment:
+Imagine a band like TOOL, Steely Dan, Pink Floyd, or Frank Zappa recording an album under a scrum master? Walk yourself through that exercise in your mind. Imagine a 15 minute standup every morning in the studio where each member has to report on progress, present the charts they notated the previous day, quantify soundbooth hours, time on tape, edits committed.
+Each song on the album is broken down into a user story. Each part of the song, it’s own task, each member of the band has to provide estimates in hours or story points for how long each task would take to
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Alan Mellor,Used Agile methods since 2005,2019,405,"I’m not a fan, I must say.
+I loved the original agile manifesto.
+To me, that directly addressed the problems of uncertain, unpredictable development by attacking its root causes. Extreme Programming (XP) seemed to make a lot of sense.
+These were ideas devised by programmers for programmers to help them program.
+And then the project managers came along.
+Scrum, with its planned sprints, seems to me to simply discard the agile manifesto. It splits a project into two week waterfalls and hijacks the term ‘agile’.
+There is nothing in the agile manifesto that says we can make software more predictable. It’
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Behdad Forghani,Master Software Engineer,2020,12,"Very few software engineers that I know like Agile software development.
+Agile methodology is OK for tasks that are very well defined and are narrow in scope.
+In my opinion Agile tends to focus people on the very short term and stifles creativity and innovation that do not align with the artificial Sprint boundaries, the same way stock prices focus companies on short term returns at the expense of long term strategies and goals.
+Another problem with implementation of Agile methodology that I have often seen is the irrelevant metrics that Agile tools produce. Most measurements on performance of th
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,James H. Kelly,Former Principal Software Developer at Spokeo (2019–2021),2019,20,"I’m sure some do, but in my experience, most don’t, especially as they get more senior.
+Most programmers like to program. They want to know what needs to be done, that their work is contributing to the overall project and that no one else is doing the same thing, but after that they want to be left alone to program. Any group decisions are generally best made in chat (Slack) or in short, small meetings with only the people who need to be involved.
+What they don’t like are useless meetings with Uno cards trying to predict the effort needed to do tasks full of unknows. What they don’t like is tryi
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Shailendra Malik,Senior Executive at Banking,2020,5,"Wow, this is a loaded question, so the answer will also be loaded with riders. I request you read in full.
+One word answer to this is a resounding NO. But it is not because of the poor methodology, but because of shoddy implementation of the concept in the real world.
+Please bear in mind that Agile Manifesto was formed with the inputs given by the top practitioners in the tech space back in 2001. The research on the topic started way back in 1994 and the first research paper on it was published in 1995 by Jeff Sutherland and Ken Schwaber.
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Pete Oliver-Krueger,"Developer, architect, manager since 1995; agile since 2008",2019,7,"If I could clarify the question first? Are you asking if programers specifically like Scrum? Or Agile in general?
+### The short answer
+If specifically about Scrum, I myself did when I was developer, though I leaned more towards Kanban in actual practices. I liked looking forward for a few weeks, breaking things down into short term chunks, regular integration, and looking at our process and making changes on a regular basis.
+I coach a lot of teams, and have found the same pattern holds up. Developers tend to lean towards Kanban, with regular planning and retro opportunities. Similar to other pos
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,José Santana,Studied Computer Science,2019,14,"I am a programmer, and I don’t like scrum at all…instead of being “agile”, scrum turned into a whole lot of formalistic “ceremonies”"
+https://www.quora.com/Do-programmers-really-like-Scrum,Petri Heiramo,Certified Scrum Trainer at Scrum Alliance (2008–present),2019,3,"The sentiment here is, unfortunately, pretty correct. It’s a statistical average. It also represents the statistical average of well-done Scrum vs. poorly done Scrum.
+When done right, it does give trust and authority to the programmers. It increases motivation and effectiveness. It does require that the team learns new skills (which may be uncomfortable for some people), but once those skills become more natural, they further increase the team’s ability. In these teams, the ScrumMaster is a liked person and really does help the team improve and get things done better & smarter. The ScrumMaster
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Gandalf Hudlow,Software Developer and Manager,2020,3,"Scrum works for about 15% of software endeavors, yet it is applied like the proverbial hammer to everything that might have seen a nail once. Programmers are smart people and can easily recognize when they are being asked to do dumb things that are a waste of time. So no, they don't like scrum about 85% of the time.
+The #1 problem in scrum is the non-customer product owner anti-pattern. Scrum works well when there is a savvy customer who will engage and learn what good looks like. The reason this works well is that team has coupled itself to a reliable source of truth so they can iterate into t
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Tim Broberg,Software developer with 30+ years experience.,2020,2,"Like communism, true scrum has never been tried.
+Everybody seems to do some bastardized process they call scrum, which they hate.
+When I was first introduced to the concept, we were pretty gung ho about it. People actually tried to size tasks properly, groom backlog, break stories into tasks, and track the progress of stories toward completion within the sprint. The manager always had a burndown chart on his wall.
+This took some getting used to, and consumed significant overhead, but there were a few things I really liked:
+Code reviews
+There was a functional, cohesive product all along, not a bunch
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Jan Fischbach,"Consultant for More Agility at Common Sense Team GmbH,Scrum Events (HLSC GmbH)",2019,6,"Yes and no. Good Scrum is fast easy and fun (Quote of Jeff Sutherland). Programmers love good Scrum.
+I saw companies where Scrum was used to force people working faster and producing more low quality stuff. Nobody likes that. Scrum makes problems in a company transparent. If there is no one who solves problems nothing happens. Nobody likes that."
+https://www.quora.com/Do-programmers-really-like-Scrum,Wouter Van Ooijen,Head Lecturer Computer Engineering,2021,2,"No, programmers generaly like Agile (which means roughly remove all unnessary protocol and give the programmers the freedom they need to be productive). Scrum as I have seen it in practice is anti-Agile: it is a fixed set of rules, which makes the (good? bad?) old waterfall method seem like total anargy."
+https://www.quora.com/Do-programmers-really-like-Scrum,Alok Dimri,Director at Benzne Consulting (2019–present),2022,3,"Many programmers take the scrum practices and principles at face value and thus end up viewing them as an overhead with respect to getting things done. This I feel is because they don't see the purpose of aforementioned elements and value it could bring to the work they do. I believe programmers appreciate Scrum once they go beyond their technical blinkers, to understand the ‘Whys’ of the framework.
+Please check more about Scrum and Agile at https://benzne.com"
+https://www.quora.com/Do-programmers-really-like-Scrum,Chris Falter,Senior Lead Scientist (2010–present),2021,1,"I have decades in the industry and experience with multiple methodologies. Scrum is by far my favorite.
+However, like any methodology it can be abused, and Scrum is easier to abuse than most. It requires a lot of discipline, just as being a member of a crew team requires individual and collective discipline.
+Some people think you can just call your daily meeting a “stand-up” and suddenly you’re doing Scrum. I have seen this more than once, and it’s worse than waterfall. Most of the criticism of Scrum seems like visceral reactions to the fake “stand-up-only” version, in my opinion.
+If you want the
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Andrew,CIO of Collagia and Snr Director of MLB at Major League Baseball,2020,1,"It’s strange how pervasive SCRUM has become as the agile standard. Out of all the methodologies I have ever participated in, it is consistently presented the worst way to engineers. Which is exactly the same way as it was presented to executives.
+I personally believe that having a methodology is better than no methodology. In contrast I am not particularly fond of any of them. I don’t precisely dis
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Geovane Piccinin,PHP Programmer (2015–present),2019,1,"I think it is overestimated.
+As a developer I get the feeling that people think they are following the principles than everything is perfect, while it is not and the consequences fall over developers.
+I will just give an example from my own experience.
+We were working in a project building an app intended to be used by adults. As a developer, the idea of the app and its requirements came to me only by the voice of the product owner. We built as she suggested until a meeting with possible users. In that meeting it became clear that she didn’t understand very well what was the demand and what the u
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Gullivan,Former Senior Architecht,2019,1,"Yes we do as long as it's implemented in the proper way. I've seen many companies using Scrum just to micromanage developers. They use daily stand up as a reporting meeting. Most companies know the buzz words but not the roots of Agile. Agile it's a developer team methodology and not management tool. It's purpose is to take people as the most important resources rather than process. It came up alongside start ups during the Web 2.0 boom. I've managers and product people hijacking Scrum tools and that is too non-sense. Another start up term Scrum suppose to help is pivoting. Changing what was p
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Dmitri Koulikoff,20+ years of the professional software development.,2019,1,I do not and consider it the waste of the resources.
+https://www.quora.com/Do-programmers-really-like-Scrum,Bret Sheeley,Senior Software Engineer at Emerson Ecologics (2018–present),2019,1,"As a senior developer, I absolutely love it… went it is done right. Unfortunately I’ve seen too many cases where it is half-implemented or Product is willing to break process at the drop of a hat. When done correctly, it allows for stories to be set to a pace that helps encourage proper planning and discussions around the user-stories in order to ensure things are broken down to their smallest valuable components, detailed out to a minimum set of requirements, and then lets the development team build and test in a reasonable period of time.
+Every time I’ve seen things go wrong in a Scrum enviro
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Kirill Sukhomlin,Web Developer (2006–present),2019,0,"I wouldn’t argue with existing trend and instead say that many developers actually don’t care mostly. Unless it’s really awful, they are more interested in technical challenges rather than such things.
+Like do you care if brand color of the product you are working, is red or blue? Well, you might have preference, but it’s not important at all. The same with scrum."
+https://www.quora.com/Do-programmers-really-like-Scrum,Animesh Yadav,Upvote,2019,0,"Of course yes, many programmers are like scrum rather they are also using the work related to scrum. Well, I know to be a good scrum master certified we need to do the proper course & also this is needed for programmers. I would suggest “tryScrum” for the best training."
+https://www.quora.com/Do-programmers-really-like-Scrum,Bruce Wells,Studied at Ithaca College,2020,1,"Scrum is a management management tool. It has nothing to do with Agile development. It was invented by developers to manage their management. Agile was just a ruse to convince them to try it.
+If you need to manage your management, then you should use Scrum. And please, never tell management this, or you will never get control of the development process."
+https://www.quora.com/Do-programmers-really-like-Scrum,Sean Hoegaarden,"Developer, Product Owner, Scrum Master, Team Leader, BA",2020,1,"The answer depends on the individual and on the environment.
+Starting with the environment is easy, there is a nice article on ‘Dark Scrum’ which details how to entirely mess up and deteriorate all concepts of agile and Scrum. Another problematic point is that most Scrum Masters get their role based on a 2 days training which makes them certified. Barely enough to get the basics. This is a very thin background if your mission is to change the mindset and behaviour of an entire organization. There are unlimited options to make Scrum painful for developers. Just keep in mind that managers have a
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Aneesa Amin,Co-founder at Skillier (2019–present),2022,0,"There's no simple answer to this question - it depends on the programmer. Some programmers love Scrum because it helps them to stay organized and focused, while others find it too restrictive and prefer to work in a more flexible environment. There are also those who find Scrum to be a helpful tool in some situations but not in others. Ultimately, it's up to the individual programmer to decide whether or not Scrum is right for them. However, there are some things that all programmers can agree on: Scrum can be challenging, and it's not always easy to stick to the rigid structure that it requir
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Manjunatha Gopalakrishna,Another Ubiquitous Software Engineer,2024-09,0,"Mostly no. In my opinion its due to the mindset rather than Scrum itself. Below is what I have observed
+The kind of people who are responsible for Scrum adoption
+It is unfortunate that majority of the Scrum Masters or coaches who introduce it or accountable for its right adoption themselves have very limited or skewed understanding of it. They tend to use it to manage/assign/track the work rather than assessing progress towards an outcome or a goal. This can cause frustration for a person who would like to focus on the job at hand. Coupled with senior management or executives who look for some q
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Michael Lloyd Lee,Former Over priced consultant at Government,2020,0,"Used well, for the right sort of project, it works well and I like what it brings. That is starting point fixed concepts can help bring people on board with agile as well as give a good set of starting points for a team. It is also fairly good at highlighting when something doesn’t work.
+The most important part of any agile process is the introspection part, Scrum is not some fixed thing that remains in a static state for all eternity. It changes as the team evolves and works out what works for them, this means by definition Scrum is not the same for each team nor is it a single course that you
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Jaanis Kruumins,Lived in Tokyo,2020,0,"I liked it when I was a programmer, I like it now as a consultant helping to manage projects.
+Would disagree with the statement that scrum is an utopian methodology. Agile is challenging to implement and Scrum isn’t an exception. Not only it can be counter-intuitive, but also because it raises questions regarding the whole process. It’s always easier to shove the questions under the carpet, but it won’t be Agile anymore. That is why we have so many pseudo-agile-scrums, but judging about Scrum based on these implementations is alike to judge the opera by a friend singing it through the landline.
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Victor Sergienko,20 years of programming,2020,1,"You will not get a good answer here.
+Because:
+1. A selection bias. People normally don’t go to the Internet to tell the world things are working fine.
+2. In English-speaking programmers culture, I observe a much more individualistic approach. People’s ideal workplace is a personal room with a window and a noise isolating door. One really needs some training before they can become an efficient team member, and it’s not everybody’s piece of cake. The individualism here is taken to its extreme: many programmers won’t talk to their colleagues about the implementation details of their work for weeks,
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,John Deeth,Studied at University of Life (Graduated 2019),2021,0,"Unfortunately, the answer is no.
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Cristiano Costantini,I was part of a team successfully and happily adopting scrum,2020,0,"I love scrum: it was really satisfying to implement it when with my Self-organized team and we adopted it starting ~2010. We all five developers enjoyed it and got mature in using it. Then the team expanded and maybe the new comers did not enjoy as much as we - the initial members - did.
+After some years and after being enlightened by Dave Thomas’s talk (he is one of the authors of the manifesto), I realize that the main reason the newcomers didn’t like was probably because they didn’t participate to self-organizing it. We, older members acted as experts.
+Similarly, I think that many developers
+Continue Reading"
+https://www.quora.com/Do-programmers-really-like-Scrum,Alpesh Vasant,Director and Principal Trainer (www.gacademy.in) (2010–present),2022,2,"Are you a disciplined person?
+Would you like to make or contribute in decision making and own the decision?
+Are you self organized ?
+Are you ready to allow yourself to be cross skilled?
+Are you a more of team player rather than lone wolf?
+Are you the person who do not believe in too much bureaucracy and believe in open and frank discussion and communication?
+Are you really passionate about programming, testing , designing and contributing in architecture of software?
+And the most importantly , are you really a flexible with mind and body??
+If answer to 90% of these questions by a Programmer is TRULY YES, then I am sure he/she would love Scrum.
+Else he/she is going to keep struggling and will keep hating Scrum (and still be the part of it most of the time)
+Sorry if I am sounding bit blunt or rude here, however these all are the reality of Scrum and frank and open communication is the very base of Scrum.
+With Regards,
+Alpesh Vasant"
