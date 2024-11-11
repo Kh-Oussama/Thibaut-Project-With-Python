@@ -1,145 +1,320 @@
 URL,Author,Author Description,Publication Date,Votes,Review
-https://www.quora.com/Do-programmers-really-like-Scrum,Alexandra Balean,Software Developer (2014–present),2019,44,"Just like it is sometimes said about communism: it depends on implementation. No, I’m joking. Scrum is awful, for me at least. I had witnessed only 2 implementations of scrum in my professional life, and both turned out to be highly bureaucratic and reduced productivity by wasting a lot of the developers’ time, and by inhibiting their creativity and autonomy. Some negative aspects include, and are not limited to:
-1. It is advertised to empower business people - faster, more regular deliveries, they get to pick (and change at any moment) what gets worked on, they get estimates, therefore they c
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Jeremy Stafford,Software Engineer/Architect,2021,84,"I’ve always felt that the biggest problem with Scrum isn’t Scrum. It’s non-engineer type people trying to bastardize Scrum into something that works for them. We’ve had an uprising and have kicked managers out of the Scrum process and it has been amazing, so here’s my opinion on it:
-Scrum is a development process, not a people management process
-In short, separate the Scrum process from project management. Leaders will coordinate with each other, but they shall not intermingle processes, and engineers will only be involved with the parts in which they have a stake (like grooming or system design
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Parantap Samajdar,"Automation Architect, Pre-Sales consultant",2020,1.5K,"Scrum, like open workspaces or day long requirement gathering meetings, is one of those things that is never liked by anyone who actually needs to participate in it. Only people who likes it are (1) people who gets employment because of it, e.g. professional scrum master (whatever that means) or agile coaches (it does not mean anything - another free money role like diversity champion); or (2) People who needs the visual and perception of lot of work being done, without having to care about what actually is being done.
-So business analysts, developers, testers hate scrums with a passion. But se
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Stephen Burns,Developing product for 25+ years,2019,17,"I’m ambivalent when Scrum is done tolerably well. I’ve yet to experience it being done very well. In practice, it’s typically a little better than waterfall. In theory it should be a lot better.
-Some issues with Scrum:
-it can be an enabler for micro-management. Everything the team is working on has to be visible on the board. Really? This can act as a brake on some pro-active behaviors. Never mind logging time against stories etc. so we can claim those R&D tax offsets
-Ceremonies? c’mon are we in a frickin’ cult?
-does the whole team have to attend every ceremony? Really?
-it relies on open and honest
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Andrew Arnott,Been playing in metal bands for over 30 years now,2022,17,"It does not matter one little bit whether you call the person breathing down your neck a scrum master, project manager, product owner, or Second Lord of the Admiralty.
-If you are doing scrum, you are more than likely being subjected to a culture of micromanagement that prioritises short cuts and sloppy coding in order to achieve short term goals, because the burn down chart is far more important than the actual quality, robustness and maintainability of the product.
-On top of this, there are all the pointless, pointless meetings that leave you with even less time to try to deliver on the total
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,James Barton,"50 years of Software Development, IT Architecture, and R&D.",2019,33,"There are many software tools and standard practices that facilitate rapid development. If you put a competent technically-adept project manager or tech-lead in charge of the team, and if they have experience with similar projects, they will be able to deliver optimumly, in terms of both time and quality. They may or may not use an approach such as Scrum, but it is best to let the person with expertise select the paradigm that has worked for them in such cases.
-Scrum is most useful when there are no experienced leaders on the team so you need to impose some kind of well-defined methodology. Oth
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Clancy Merrick,"B. Sc (Honours) in Computer Science, University of Sydney",2019,93,"Well, I can only speak for myself as a programmer (or rather a Software Developer) who has (tried) to work in at least 2 Scrum teams.
-No, I don’t really like Scrum.
-I really detest Scrum.
-I observed so many flaws in the Scrum process/manifesto that it was literally painful.
-Some, but not all, were:
-The lie that Scrum would enable either faster delivery, more transparency or a better end product. The reality was that it seriously impeded delivery speed, encouraged less transparency and almost never produced any product at all (both projects were “cancelled” by executives).
-The extremist fundamentalis
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Eric Litovsky,Principal Software Engineer at Grey Swan Inc (2014–present),2019,19,"Let’s try a thought experiment:
-Imagine a band like TOOL, Steely Dan, Pink Floyd, or Frank Zappa recording an album under a scrum master? Walk yourself through that exercise in your mind. Imagine a 15 minute standup every morning in the studio where each member has to report on progress, present the charts they notated the previous day, quantify soundbooth hours, time on tape, edits committed.
-Each song on the album is broken down into a user story. Each part of the song, it’s own task, each member of the band has to provide estimates in hours or story points for how long each task would take to
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Alan Mellor,Used Agile methods since 2005,2019,405,"I’m not a fan, I must say.
-I loved the original agile manifesto.
-To me, that directly addressed the problems of uncertain, unpredictable development by attacking its root causes. Extreme Programming (XP) seemed to make a lot of sense.
-These were ideas devised by programmers for programmers to help them program.
-And then the project managers came along.
-Scrum, with its planned sprints, seems to me to simply discard the agile manifesto. It splits a project into two week waterfalls and hijacks the term ‘agile’.
-There is nothing in the agile manifesto that says we can make software more predictable. It’
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Behdad Forghani,Master Software Engineer,2020,12,"Very few software engineers that I know like Agile software development.
-Agile methodology is OK for tasks that are very well defined and are narrow in scope.
-In my opinion Agile tends to focus people on the very short term and stifles creativity and innovation that do not align with the artificial Sprint boundaries, the same way stock prices focus companies on short term returns at the expense of long term strategies and goals.
-Another problem with implementation of Agile methodology that I have often seen is the irrelevant metrics that Agile tools produce. Most measurements on performance of th
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,James H. Kelly,Former Principal Software Developer at Spokeo (2019–2021),2019,20,"I’m sure some do, but in my experience, most don’t, especially as they get more senior.
-Most programmers like to program. They want to know what needs to be done, that their work is contributing to the overall project and that no one else is doing the same thing, but after that they want to be left alone to program. Any group decisions are generally best made in chat (Slack) or in short, small meetings with only the people who need to be involved.
-What they don’t like are useless meetings with Uno cards trying to predict the effort needed to do tasks full of unknows. What they don’t like is tryi
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Shailendra Malik,Senior Executive at Banking,2020,5,"Wow, this is a loaded question, so the answer will also be loaded with riders. I request you read in full.
-One word answer to this is a resounding NO. But it is not because of the poor methodology, but because of shoddy implementation of the concept in the real world.
-Please bear in mind that Agile Manifesto was formed with the inputs given by the top practitioners in the tech space back in 2001. The research on the topic started way back in 1994 and the first research paper on it was published in 1995 by Jeff Sutherland and Ken Schwaber.
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Pete Oliver-Krueger,"Developer, architect, manager since 1995; agile since 2008",2019,7,"If I could clarify the question first? Are you asking if programers specifically like Scrum? Or Agile in general?
-### The short answer
-If specifically about Scrum, I myself did when I was developer, though I leaned more towards Kanban in actual practices. I liked looking forward for a few weeks, breaking things down into short term chunks, regular integration, and looking at our process and making changes on a regular basis.
-I coach a lot of teams, and have found the same pattern holds up. Developers tend to lean towards Kanban, with regular planning and retro opportunities. Similar to other pos
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,José Santana,Studied Computer Science,2019,14,"I am a programmer, and I don’t like scrum at all…instead of being “agile”, scrum turned into a whole lot of formalistic “ceremonies”"
-https://www.quora.com/Do-programmers-really-like-Scrum,Petri Heiramo,Certified Scrum Trainer at Scrum Alliance (2008–present),2019,3,"The sentiment here is, unfortunately, pretty correct. It’s a statistical average. It also represents the statistical average of well-done Scrum vs. poorly done Scrum.
-When done right, it does give trust and authority to the programmers. It increases motivation and effectiveness. It does require that the team learns new skills (which may be uncomfortable for some people), but once those skills become more natural, they further increase the team’s ability. In these teams, the ScrumMaster is a liked person and really does help the team improve and get things done better & smarter. The ScrumMaster
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Gandalf Hudlow,Software Developer and Manager,2020,3,"Scrum works for about 15% of software endeavors, yet it is applied like the proverbial hammer to everything that might have seen a nail once. Programmers are smart people and can easily recognize when they are being asked to do dumb things that are a waste of time. So no, they don't like scrum about 85% of the time.
-The #1 problem in scrum is the non-customer product owner anti-pattern. Scrum works well when there is a savvy customer who will engage and learn what good looks like. The reason this works well is that team has coupled itself to a reliable source of truth so they can iterate into t
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Tim Broberg,Software developer with 30+ years experience.,2020,2,"Like communism, true scrum has never been tried.
-Everybody seems to do some bastardized process they call scrum, which they hate.
-When I was first introduced to the concept, we were pretty gung ho about it. People actually tried to size tasks properly, groom backlog, break stories into tasks, and track the progress of stories toward completion within the sprint. The manager always had a burndown chart on his wall.
-This took some getting used to, and consumed significant overhead, but there were a few things I really liked:
-Code reviews
-There was a functional, cohesive product all along, not a bunch
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Jan Fischbach,"Consultant for More Agility at Common Sense Team GmbH,Scrum Events (HLSC GmbH)",2019,6,"Yes and no. Good Scrum is fast easy and fun (Quote of Jeff Sutherland). Programmers love good Scrum.
-I saw companies where Scrum was used to force people working faster and producing more low quality stuff. Nobody likes that. Scrum makes problems in a company transparent. If there is no one who solves problems nothing happens. Nobody likes that."
-https://www.quora.com/Do-programmers-really-like-Scrum,Wouter Van Ooijen,Head Lecturer Computer Engineering,2021,2,"No, programmers generaly like Agile (which means roughly remove all unnessary protocol and give the programmers the freedom they need to be productive). Scrum as I have seen it in practice is anti-Agile: it is a fixed set of rules, which makes the (good? bad?) old waterfall method seem like total anargy."
-https://www.quora.com/Do-programmers-really-like-Scrum,Alok Dimri,Director at Benzne Consulting (2019–present),2022,3,"Many programmers take the scrum practices and principles at face value and thus end up viewing them as an overhead with respect to getting things done. This I feel is because they don't see the purpose of aforementioned elements and value it could bring to the work they do. I believe programmers appreciate Scrum once they go beyond their technical blinkers, to understand the ‘Whys’ of the framework.
-Please check more about Scrum and Agile at https://benzne.com"
-https://www.quora.com/Do-programmers-really-like-Scrum,Chris Falter,Senior Lead Scientist (2010–present),2021,1,"I have decades in the industry and experience with multiple methodologies. Scrum is by far my favorite.
-However, like any methodology it can be abused, and Scrum is easier to abuse than most. It requires a lot of discipline, just as being a member of a crew team requires individual and collective discipline.
-Some people think you can just call your daily meeting a “stand-up” and suddenly you’re doing Scrum. I have seen this more than once, and it’s worse than waterfall. Most of the criticism of Scrum seems like visceral reactions to the fake “stand-up-only” version, in my opinion.
-If you want the
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Andrew,CIO of Collagia and Snr Director of MLB at Major League Baseball,2020,1,"It’s strange how pervasive SCRUM has become as the agile standard. Out of all the methodologies I have ever participated in, it is consistently presented the worst way to engineers. Which is exactly the same way as it was presented to executives.
-I personally believe that having a methodology is better than no methodology. In contrast I am not particularly fond of any of them. I don’t precisely dis
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Geovane Piccinin,PHP Programmer (2015–present),2019,1,"I think it is overestimated.
-As a developer I get the feeling that people think they are following the principles than everything is perfect, while it is not and the consequences fall over developers.
-I will just give an example from my own experience.
-We were working in a project building an app intended to be used by adults. As a developer, the idea of the app and its requirements came to me only by the voice of the product owner. We built as she suggested until a meeting with possible users. In that meeting it became clear that she didn’t understand very well what was the demand and what the u
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Gullivan,Former Senior Architecht,2019,1,"Yes we do as long as it's implemented in the proper way. I've seen many companies using Scrum just to micromanage developers. They use daily stand up as a reporting meeting. Most companies know the buzz words but not the roots of Agile. Agile it's a developer team methodology and not management tool. It's purpose is to take people as the most important resources rather than process. It came up alongside start ups during the Web 2.0 boom. I've managers and product people hijacking Scrum tools and that is too non-sense. Another start up term Scrum suppose to help is pivoting. Changing what was p
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Dmitri Koulikoff,20+ years of the professional software development.,2019,1,I do not and consider it the waste of the resources.
-https://www.quora.com/Do-programmers-really-like-Scrum,Bret Sheeley,Senior Software Engineer at Emerson Ecologics (2018–present),2019,1,"As a senior developer, I absolutely love it… went it is done right. Unfortunately I’ve seen too many cases where it is half-implemented or Product is willing to break process at the drop of a hat. When done correctly, it allows for stories to be set to a pace that helps encourage proper planning and discussions around the user-stories in order to ensure things are broken down to their smallest valuable components, detailed out to a minimum set of requirements, and then lets the development team build and test in a reasonable period of time.
-Every time I’ve seen things go wrong in a Scrum enviro
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Kirill Sukhomlin,Web Developer (2006–present),2019,0,"I wouldn’t argue with existing trend and instead say that many developers actually don’t care mostly. Unless it’s really awful, they are more interested in technical challenges rather than such things.
-Like do you care if brand color of the product you are working, is red or blue? Well, you might have preference, but it’s not important at all. The same with scrum."
-https://www.quora.com/Do-programmers-really-like-Scrum,Animesh Yadav,Upvote,2019,0,"Of course yes, many programmers are like scrum rather they are also using the work related to scrum. Well, I know to be a good scrum master certified we need to do the proper course & also this is needed for programmers. I would suggest “tryScrum” for the best training."
-https://www.quora.com/Do-programmers-really-like-Scrum,Bruce Wells,Studied at Ithaca College,2020,1,"Scrum is a management management tool. It has nothing to do with Agile development. It was invented by developers to manage their management. Agile was just a ruse to convince them to try it.
-If you need to manage your management, then you should use Scrum. And please, never tell management this, or you will never get control of the development process."
-https://www.quora.com/Do-programmers-really-like-Scrum,Sean Hoegaarden,"Developer, Product Owner, Scrum Master, Team Leader, BA",2020,1,"The answer depends on the individual and on the environment.
-Starting with the environment is easy, there is a nice article on ‘Dark Scrum’ which details how to entirely mess up and deteriorate all concepts of agile and Scrum. Another problematic point is that most Scrum Masters get their role based on a 2 days training which makes them certified. Barely enough to get the basics. This is a very thin background if your mission is to change the mindset and behaviour of an entire organization. There are unlimited options to make Scrum painful for developers. Just keep in mind that managers have a
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Aneesa Amin,Co-founder at Skillier (2019–present),2022,0,"There's no simple answer to this question - it depends on the programmer. Some programmers love Scrum because it helps them to stay organized and focused, while others find it too restrictive and prefer to work in a more flexible environment. There are also those who find Scrum to be a helpful tool in some situations but not in others. Ultimately, it's up to the individual programmer to decide whether or not Scrum is right for them. However, there are some things that all programmers can agree on: Scrum can be challenging, and it's not always easy to stick to the rigid structure that it requir
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Manjunatha Gopalakrishna,Another Ubiquitous Software Engineer,2024-09,0,"Mostly no. In my opinion its due to the mindset rather than Scrum itself. Below is what I have observed
-The kind of people who are responsible for Scrum adoption
-It is unfortunate that majority of the Scrum Masters or coaches who introduce it or accountable for its right adoption themselves have very limited or skewed understanding of it. They tend to use it to manage/assign/track the work rather than assessing progress towards an outcome or a goal. This can cause frustration for a person who would like to focus on the job at hand. Coupled with senior management or executives who look for some q
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Michael Lloyd Lee,Former Over priced consultant at Government,2020,0,"Used well, for the right sort of project, it works well and I like what it brings. That is starting point fixed concepts can help bring people on board with agile as well as give a good set of starting points for a team. It is also fairly good at highlighting when something doesn’t work.
-The most important part of any agile process is the introspection part, Scrum is not some fixed thing that remains in a static state for all eternity. It changes as the team evolves and works out what works for them, this means by definition Scrum is not the same for each team nor is it a single course that you
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Jaanis Kruumins,Lived in Tokyo,2020,0,"I liked it when I was a programmer, I like it now as a consultant helping to manage projects.
-Would disagree with the statement that scrum is an utopian methodology. Agile is challenging to implement and Scrum isn’t an exception. Not only it can be counter-intuitive, but also because it raises questions regarding the whole process. It’s always easier to shove the questions under the carpet, but it won’t be Agile anymore. That is why we have so many pseudo-agile-scrums, but judging about Scrum based on these implementations is alike to judge the opera by a friend singing it through the landline.
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Victor Sergienko,20 years of programming,2020,1,"You will not get a good answer here.
-Because:
-1. A selection bias. People normally don’t go to the Internet to tell the world things are working fine.
-2. In English-speaking programmers culture, I observe a much more individualistic approach. People’s ideal workplace is a personal room with a window and a noise isolating door. One really needs some training before they can become an efficient team member, and it’s not everybody’s piece of cake. The individualism here is taken to its extreme: many programmers won’t talk to their colleagues about the implementation details of their work for weeks,
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,John Deeth,Studied at University of Life (Graduated 2019),2021,0,"Unfortunately, the answer is no.
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Cristiano Costantini,I was part of a team successfully and happily adopting scrum,2020,0,"I love scrum: it was really satisfying to implement it when with my Self-organized team and we adopted it starting ~2010. We all five developers enjoyed it and got mature in using it. Then the team expanded and maybe the new comers did not enjoy as much as we - the initial members - did.
-After some years and after being enlightened by Dave Thomas’s talk (he is one of the authors of the manifesto), I realize that the main reason the newcomers didn’t like was probably because they didn’t participate to self-organizing it. We, older members acted as experts.
-Similarly, I think that many developers
-Continue Reading"
-https://www.quora.com/Do-programmers-really-like-Scrum,Alpesh Vasant,Director and Principal Trainer (www.gacademy.in) (2010–present),2022,2,"Are you a disciplined person?
-Would you like to make or contribute in decision making and own the decision?
-Are you self organized ?
-Are you ready to allow yourself to be cross skilled?
-Are you a more of team player rather than lone wolf?
-Are you the person who do not believe in too much bureaucracy and believe in open and frank discussion and communication?
-Are you really passionate about programming, testing , designing and contributing in architecture of software?
-And the most importantly , are you really a flexible with mind and body??
-If answer to 90% of these questions by a Programmer is TRULY YES, then I am sure he/she would love Scrum.
-Else he/she is going to keep struggling and will keep hating Scrum (and still be the part of it most of the time)
-Sorry if I am sounding bit blunt or rude here, however these all are the reality of Scrum and frank and open communication is the very base of Scrum.
-With Regards,
-Alpesh Vasant"
+https://www.quora.com/What-are-some-downsides-of-Agile,Assistant,Bot,2024-08,0,"While Agile methodologies offer many benefits, they also come with several downsides:
+Lack of Predictability: Agile's iterative nature can make it difficult to predict timelines and budgets. This uncertainty can be challenging for stakeholders who prefer fixed schedules and costs.
+Scope Creep: The flexibility of Agile can lead to scope creep, where continuous changes and additions to project requirements can overwhelm teams and dilute project focus.
+Team Dependency: Agile relies heavily on collaboration and communication among team members. If team members are not fully engaged or lack experience, it can hinder progress and productivity.
+Documentation Challenges: Agile emphasizes working software over comprehensive documentation, which can lead to insufficient documentation for future reference, onboarding, or compliance.
+Requires Cultural Shift: Implementing Agile often requires a significant cultural change within an organization. Resistance to change can impede the adoption of Agile practices.
+Difficulty in Scaling: While Agile works well for small to medium-sized teams, scaling it to large organizations can be complex and may require additional frameworks (e.g., SAFe, LeSS).
+Overemphasis on Meetings: The Agile framework includes regular meetings (like daily stand-ups and sprint reviews), which can become burdensome and take away from actual development time if not managed properly.
+Potential for Incomplete Products: Since Agile focuses on delivering incremental updates, there is a risk that products may be released with incomplete features or functionality if not carefully managed.
+Variable Quality: The emphasis on speed and iterative releases can sometimes lead to quality being compromised, especially if testing is not integrated into each iteration.
+Inconsistent Practices: Different teams within the same organization may adopt Agile practices differently, leading to inconsistency and confusion regarding processes and expectations.
+Understanding these downsides can help teams and organizations better prepare for the challenges of implementing Agile methodologies effectively."
+https://www.quora.com/What-are-some-downsides-of-Agile,Kavya Tolety,Studied Computer Science and Engineering (Graduated 2020),2020,2,"Hi!
+I believe there is always two sides to a story, just like a coin that has two sides.
+Before i answer your question, let’s understand What is Agile?
+Agile is an iterative based software development approach where the software project is broken down into various iterations or sprints. Every iteration has phases like the waterfall model such as requirements gathering, design, development, testing, and maintenance. The duration of each iteration is generally 2-8 weeks.
+So in Agile, you release the application with some high priority features in the first iteration
+After its release, the end-users or the customers give you feedback about the performance of the application
+The necessary changes are made into the application along with some new features and the application is again released which is the second iteration
+This procedure is repeated until the desired software quality is achieved
+Some advantages of the agile methodology are:
+Because of the high customer involvement, you receive feedback quickly and make decisions on the fly. There’s more frequent communication, more feedback and a closer relationship with your customers
+There is a lesser risk since your work output is reviewed at every stage. You also save money and time from unnecessary expenditures, because you’ll be prioritizing providing value for your users
+You’ll be improving the quality of your output with each cycle. By breaking down your project into bite-sized pieces, you learn from each iteration. There is a lot of trial and error involved, but for the most part, you’re still focusing on high-quality development, testing, and collaboration
+Now, answering your question some downsides of Agile are:
+For the approach to work, all members of the team must be completely dedicated to the project. Everyone must be involved equally if you want the whole team to learn and do better on the next run. Because Agile focuses on quick delivery, there might be an issue with hitting deadlines
+The approach may seem simple but be hard to execute. It requires commitment and for everyone to be on the same page, ideally, in the same physical space
+Documentation can be ignored. Because Agile methodology focuses on working software over comprehensive documentation, things might get lost through each stage and iteration. As a result, the final product can feel different from what was first planned
+I hope this helps :) For more information check out this video
+All the best!"
+https://www.quora.com/What-are-some-downsides-of-Agile,Ashwin Dhakal,Web Designer and Administrator at Tech Unboxin (2015–present),2017,25,"I have answered about the Agile Development after many answer request in this Quora section : Ashwin Dhakal's answer to What is agile development? [ https://www.quora.com/What-is-agile-development/answer/Ashwin-Dhakal ]
+This is the graphical representation of the Agile Model I draw for your convenience. Hope you like it :)
+
+Disadvantages of Agile model:
+1) This model is very annoying in case of some of the large software, since it is difficult to assess the effort required at the very beginning of the software development life cycle.
+2) There is serious absence of emphasis on necessary designing and documentation of the ...
+Access this answer and support the author as a Quora+ subscriber
+Access all answers reserved by
+Ashwin Dhakal
+for Quora+ subscribers
+Access exclusive answers from thousands more participating creators in Quora+
+Browse ad‑free and support creators
+Start free trial
+Learn more"
+https://www.quora.com/What-are-some-downsides-of-Agile,Marcas Neal,BS in Computer Science Education(SUNY) -- 25+ years as a rent-a-CTO,2016,2,"Agile is a reaction, seeking to address what it considers to be wrong with ""waterfall."" That is one of the many ways Agile completely ignores what waterfall got right, like denigration of requirements and design.
+News to Agile people: User Stories DO NOT equal requirements and/or design. Most software engineers take a more balanced approach, where we recognize that waterfall was too slow and bureaucratic without throwing the baby out with the bath water!
+Some forms of Agile go completely insane, such as the artifical ""definitions of done,"" especially when only one matters, specifically when does the end user use it and will the client pay for it ... thats it! Another extreme is pair programming, which is a complete waste of resources!"
+https://www.quora.com/What-are-some-downsides-of-Agile,Charan Puneet Singh,Analyst,2015,16,"To know the disadvantages of Agile, it is important to know what Agile software development means. Please refer the Agile Manifesto.
+Irrespective of the flavor of agile you decide to chose, there are some industry accepted scenarios where Agile will work and where it will not work.
+Agile will not work well unless every member of your team is really good.
+Agile will not work well for a team where communication is an issue. It needs open communication for every day stand ups and retros. Your communication should be so good that any developer in your team should be able to pick up any piece of code and start working on it.
+Agile will not work in a hierarchy-driven organizational set up. It needs a culture which cannot be developed overnight.
+Agile will not work in a scenario where failure is not an option. It is often called FDD for this reason.
+Agile may not work very well for a package implementation or a system integration project.
+Agile will fail without the right engineering practices in place. Pair Programming, Test Driven Development, Continuous Integration are necessary for agile to work.
+Agile is not the goto term for ignoring solution design and code"
+https://www.quora.com/What-are-some-downsides-of-Agile,Nikita Gureev,"B.S. in Software Engineering, Higher School of Economics (Graduated 2016)",2017,5,"Agile development is frequently praised for its flexibility, quick feedback, efficient communication, and frequent releases, however it is not the best methodology for every case. There exist several disadvantages to this model:
+Agile is as flexible and accomodating for new requirements, as it is difficult to predict and estimate at the start. Some projects adopting this methodology turn out to be too long-lasting. A reason for that may be lack of project focus and clear vision of the product from the customer;
+While frequent communication and involvement from customer can have a huge positive impact on the develoment, there is a potential problem here, as some customers won’t be able to participate so actively in the development;
+Agile prioritizes working code over documentation, and while that may be a positive thing, some projects just end up lacking proper documentation. Combine that with high developer turnover rate and you have a recipe for disaster;
+Agile practices allow for involvement of different roles early on in the project, which is generally a good thing. However, it increases costs for the project from early on, which people should be mindful of. It is important to mention that this practice mitigates some risks. For instance, continious integration throughout the project may be costly, but it is preferable to high risks of waterfall testing process.
+Overall, Agile has many advantages and should be used for a wide range of projects of different scale, however one should be aware of the possible drawbacks this methodology has.
+Links:
+Disadvantages of Agile Development
+Agile software development - Wikipedia
+The Massive Downside of Agile Software Development"
+https://www.quora.com/What-are-some-downsides-of-Agile,Michael O. Church,Studied at Carleton College,2014,36,"Agility is always a good thing, in theory, but most of ""Agile"" development is an attempt to patch closed allocation, which is broken from the start. Also, enforcing an Agile style of development, communication, and work allocation means adding more management, not less. Usually, it becomes a justification for yet more micromanagement.
+Scrum, for example, is probably good for turning the uninitiated into reliable, useful junior developers. For senior developers and higher, it's miserable. After 5 years, if you're any good, you get to a point where you're only interested in longer-term projects with some architectural meat and a long-term focus. People like that don't enjoy working on Scrum teams and, paradoxically, often end up as underperformers because it means they have to suffer under more micromanagement, and typically have less autonomy. Now, your best people feel like they're micromanaged and not learning much except how to game a process, and they tend to get pissed off and leave.
+If you want agility, you're better off going to open allocation. If open allocation is not an option-- and sometimes it is not-- then you should, instead, be owning the boring/reliable niche, hiring boring/reliable people, and accepting that agility is not a priority. (It's desirable, but reliability is more important, in that case.)"
+https://www.quora.com/What-are-some-downsides-of-Agile,Mike Fontner,IT-Security Engineer / Application Security (2020–present),2020,1,"One of the disadvantages - that most people are not aware of in the beginning - is that it puts all responsibility much further down in the “food-chain”.
+The rule most prevalent I found so far is this one: “You build it, you run it!”
+Seems to be simple and logical at the first glance. True it IS simple and logical.
+AND it has a TON of implications most managers, expecially in the upper management are absolutely not aware of.
+For example: If I’m the one running it, then I also want to know what happens while the system is under production. I also want / need to know how the system is fairing under test. I also … ! You get the drift.
+In agile, High Quality DevSecOps is imperative to do your job successfully! No manager can tell you exactly what to do when and how, because they don’t know what you solved how and where.
+The whole responsibility is on the team. Therefore the team has to decide what works best … for the teams responsibilities.
+In a working agile environment (emphasis is on working!) the role of a manager is not to tell people what to do but to make sure that the team can do what it has to do in order to fullfill it’s responsibilities! That also means to clear obstacles in whatever form they appear, make sure different departments work smoothly together, make sure the proper talent is represented in the team, coaching your people to get the proper education they need if necessary, etc. pp.
+The pressure, the responsibility and also the lack of someone else to blame is not for everyone though. You need properly geared people as well who apprechiate such an environment, because nobody will tell you what to do when and how. That’s YOUR (!!) repsonsibility too.
+And that’s just one aspect.
+A switch to agile is so deep and brings such profound changes in the whole culture, that old silos and management structures within the whole company will either be destroyed in the process or the agile will fail. Because you cannot have only a small agile thingie somewhere in the company while the rest goes “unspoiled”.
+It’s an all or nothing decision.
+Yes, IF agile is truly implemented, you can reap a LOT of benefits!
+BUT on the road to fully get a grip, figure out what works for you and what not, million things can go wrong and nothing will be achieved. Then agility is blamed. It’s not the system though. It’s the change, that people resisted."
+https://www.quora.com/What-are-some-downsides-of-Agile,S Markem,Author (S. Markem) of The Wizard Of Trope and more,2018,2,"No easy way to say this…
+Its difficult to ‘do it right’.
+It demands experience, intelligence, discipline ( internal ) and professionalism.
+It can help encourage these, but it can’t magically turn groups of people without the above characteristics into high functioning teams.
+At the moment we still have a severe shortage of programmers of a certain calibre and the median age in the industry overall means inexperience is rife. Even if that were not the case the numbers of developers working 20 years ago is now dwarfed by the numbers that exist now. There isn’t enough quality to go around.
+So. Its drawback? Level of competency required."
+https://www.quora.com/What-are-some-downsides-of-Agile,Pepper Hayes,Customer Support at nTask (2014–present),2020,2,"Nothing can give you a 100% output with a 100%input.
+Agile has it’s own flaws and pros.
+But here are some of the major drawbacks
+Projects can easily fall off rails. Agile works best when all the needs of the client are either unknown or they keep changing. Of course, that is not the case with all the projects. The time in between, the team might not have as much to do.
+The predictability of the deliverables decreases.
+Every team member must have a clear understanding and direction of what are the needs and requirements of the product.
+Increased need for constant interaction and communication between the stakeholders.
+There is an increased burden on the developers and the client. Any lack or depravity on the part of either would cause a loss of quality of the product
+because of the nature of agile, the documentation of the project is less detailed.
+These drawbacks should not be of great worry to you, especially if your work coincides well with agile. It is a great disciplined and structured way to get detailed work done."
+https://www.quora.com/What-are-some-downsides-of-Agile,Matthieu Cornillon,"Agile Coach helping individuals, teams, and organizations get better.",2016,2,"Broadly speaking, I'd say embracing Agile has two particularly challenging aspects:
+You move away from rigid structure. With rigid process, you can see how everything fits together, look at people as fitting or not fitting and manage accordingly. Have a problem with the output, then fix the process. It's relatively easy to understand, and folks who are in control perceive a high level of control. Pro-agile folks (like me) might argue that this is perceived, not actual control, that the system based on a false sense of security, and that the lost potential in a command-and-control environment outweighs any benefits of the rigid structure. The downside is that when you abandon rigid process, you enter an initially very confusing world. What is the right amount of planning, process, guidance, oversight? Who decides what? How do we scale? How do we drive improvement without telling people what to do? Etc. It can feel like being lost with no bearings.
+You land in a place that is not extreme. As Marcas Neal rightly says: it is a mistake to embrace Agile in a way that throws the baby out with the bathwater. The Agile Manifesto is very clear about the balance it seeks. It explicitly says that processes, tools, contracts, documentation, and planning all have value; it simply says that those are of secondary value to other pieces. Many people I speak to about Agile seem to be yearning for an easy answer: always do this, never do that, follow this rule, do things this way, etc. I often give the annoying Agile Coach answer: ""It depends."" And that's a lot harder to handle. If I give you a formula for calculating how many stories to take into a sprint, it could be easy to follow, but it would be weak to the point of hardly useful. On the other hand, I know that people who come to me for a question are just trying to do their jobs, and I recognize that it can be really frustrating that I can't give them a ""straight answer"".
+Abandoning rigidity and landing in a place of balance can yield many benefits, but it is very, very, very hard to get right. If you take an organization that has no experience doing these things and convert overnight, you risk confusing and alienating people while throwing your delivery structure into disarray. As much as a flexible structure and paucity of strict rules can allow creativity and self-driven teams to flourish, it can create room for chaos and bullying. Getting to a point where you have the wild west but everyone plays nicely is a tall order.
+If you are asking because you are considering a move to Agile, I'd say go for it, but build consensus, go slowly, and ensure you have great feedback loops for adjusting course. I believe Agile is healthier at longer timescales, so you'll have to be patient."
+https://www.quora.com/What-are-some-downsides-of-Agile,Arunchunai Vendan Pugalenthi,Studied Engineering,2017,3,"Its easy to forget what you complete before as the documentation phase is teensy.
+Unlike Waterfall, Agile cannot be flexible for Adhoc requests. You will need to groom the backlogs over and over again when Adhoc requests pop up.
+Agile is a wonderful software model. To avoid drawbacks of Agile, all you need to do is, analyze the use cases and decide whether Agile will fit or not. One cannot expect a mango from apple tree."
+https://www.quora.com/What-are-some-downsides-of-Agile,Sachin More,Principle Consultant at Atos (2010–present),2019,5,"Agile > No Agile > Bad Agile
+Bad Agile is a horrific experience that I wouldn't wish on my worst enemies.
+My worst experience so far:
+1. · Sprint planning - This is where the product owners actually figured out what work they wanted to do. We'd spend several hours discussing nebulous requirements before even getting to prioritization
+2. · Daily meeting - The 30+ minute sit down where everything is re-prioritized, new tasks are added, whole conversations are repeated. The product owners would not listen to the scrum master and stay on track
+3. · Sprint retrospective - These were cancelled because the product owners didn't want to change how they worked and were considered pointless
+You can only push back so much before something breaks. In reality, everyone gives up on improving the process to maintain some shred of sanity. Anyone new to Agile joining thinks this is how it's done and henceforth hates it.
+I think one problem stems from Agile consultants telling the organization that they should ""Do what fits best"". While technically true, people don't understand the motivations of Agile and therefore interpret it as ""Make up my own process with my 0 years of research/experience""
+The “fast” that Agile promises isn’t “fast to finish” but rather “fast to react”.
+It promises to minimize the time fro...
+Access this answer and support the author as a Quora+ subscriber
+Access all answers reserved by
+Sachin More
+for Quora+ subscribers
+Access exclusive answers from thousands more participating creators in Quora+
+Browse ad‑free and support creators
+Start free trial
+Learn more"
+https://www.quora.com/What-are-some-downsides-of-Agile,Saravana Bharathi,Works at Northwestern Mutual,2014,3,"Agile implementations, be it Scrum, XP, Kanban or mix of these requires a huge shift in culture and thought process. It is not about process, not about standing up everyday and answering three questions.
+That being said, most of the time the frustration comes out because of bad implementation, not enough support from your senior management, no training etc. people get stuck with the process instead of understanding value and principles behind it.
+Let me give you an real life example. In the past I consulted with a company, I went there middle of crisis. The VPs and big wigs thought scrum is the silver bullet, they said go scrum. The software teams bought into it. But not support teams like contracts. It was a hell. Contracts still wanted suppliers to write down detailed specs, penalties associated with timeline, lengthy MS project, change control process etc. people kept two books. It was a huge strain on supplier. In the end, it was a failure, left with frustrated people. People blamed it on Scrum and the software group head was let go. I could write an entire book about insights from this experience.
+If you read the above and give it a thought, most of the times the issues are because of bad implementation and misinterpretation. Sometimes your organization may not be ready for it. Better don't do it. Save the frustration. If you still want to do it, hire an experienced consultant, some one who had done it many times. Interview them personally, do a little bit of research about this guy before bringing him in. stay away from middle tier recruiting / head hunters. 99% of the time they don't know what they are looking for."
+https://www.quora.com/What-are-some-downsides-of-Agile,Sriram Sridhar,"Entrepreneur, Software Engineer, Technology Evangelist , Marketing Fanatic",2014,10,"I cannot speak for other agile implementations, but I have some experience working in scrums and being a scrum master. The following is the biggest disadvantage I personally experienced with the process.
+The biggest problem with scrums is the fact that the tasks included in a scrums are only as good as how well they have been defined. Unfortunately, it is very difficult to define tasks that are new and nobody on the team has a good idea of how long it takes to complete. This is especially true when working on new products or features that do not have precedents. It is also true for tasks that require research and analysis.
+By definition, tasks included in a scrum should be completed by the end of that sprint without requiring any rework. This is great in principle but when you throw in tasks that have not been defined properly, it begins to fall apart pretty quickly. Estimating tasks that have never been done before is almost like estimating the run time of a database query without actually executing it. There is always a good chance that the initial estimate turns out to be wrong by several magnitudes. This consequently results in tasks going unfinished in a sprint. But with scrums, the scrum master is not taught to take unfinished tasks into account when pl...
+Access this answer and support the author as a Quora+ subscriber
+Access all answers reserved by
+Sriram Sridhar
+for Quora+ subscribers
+Access exclusive answers from thousands more participating creators in Quora+
+Browse ad‑free and support creators
+Start free trial
+Learn more"
+https://www.quora.com/What-are-some-downsides-of-Agile,Jeff Nelson,Invented Chromebook,2015,110,"My main criticism of Agile is that it's become such an all-inclusive term for so many different methodologies.
+Scrum is Agile.
+Test-driven development is Agile.
+Pair programming is Agile.
+Open-ended specification is Agile.
+It's not a stretch to say even management-by-walking-around and Six Sigma have been relabeled as part of Agile.
+Back in the 1990s, we had many terms for many methodologies, software and management. Now, every methodology is just called ""Agile""."
+https://www.quora.com/What-are-some-downsides-of-Agile,Sachin Chauhan,Engineer in making,2021,1,"Agile is B.S.
+It's has no advantage, doing work in iterations is a sign of the incompetency of developer and more over the unclear goal of the client.
+To avoid these two issues, they have created very cleverly this so called Agile methodology, which if you look closely you will find that it complicates things and kills innovation.
+This is just non-sense created by some MBA grads.
+This method helps everyone except the people who actually do the damn job.
+Purely managerial oriented process.
+It is a poor attempt to make demeaning and scut work interesting.
+In simple terms, suppose you order a burger at McDonald's. Now, instead of waiting for it patiently outside, you go into the kitchen and follow the process till a bigger is finally made. Just imagine, the ruckus you are gonna create in the kitchen.
+Now, you are the client and kitchen workers are the developers. The person at the counter is the manager just facilitating the client to have his way."
+https://www.quora.com/What-are-some-downsides-of-Agile,Rajeev Techexpert,Author has 77 answers and 82.9K answer views,2020,1,"Hi,
+
+First of all lets understand what is agile model?
+
+Agile model is a type of project management process which is mainly used for software development. Where demands and solutions evolve through the collaborative effort of cross-functional teams and customers.
+
+Advantage of Agile model:
+- Developers, testers and customer can interact with each other.
+- Software is delivered frequently.
+- Continuous monitoring to technical excellence and good design.
+- Daily coordination and cooperation between business people and developers.
+- Adaptation to changing circumstances.
+- Even last minute changes in requirements are welcomed.
+Disadvantage of Agile model:
+- Agile model is not useful for small development projects.
+- Project can easily get taken off track if the customer is not clear about final outcome.
+- Documentation of the project is less detailed because of the nature of agile.
+- Agile Model require more time and commitment as customers, developers and testers must constantly interact with each other.
+Above answer is based on my experience in a software app testing company. I hope this will help.
+Do let me know in case of any query regarding the same.
+Thanks,
+Rajeev"
+https://www.quora.com/What-are-some-downsides-of-Agile,Anusha Hewage,"Agile Thought Leader, Program and project manager",2017,2,"I ll try to answer this question targeting software development as the question is formed that way .
+Actually it is true that only success is most of the time documented and available to refer . Drawbacks are rarely mentioned .
+Issues I have experienced are below.
+Developers feel they are micromanaged
+Resistance basically starts from the stand ups . Everyday coming for this 15 minutes and giving updates are not a comfort for everybody . Hence they start criticizing and resisting the process which can finally lead to say this process is not good for us. (This is when the scrum master has to show his/her leadership and coaching skills and let the people know the benefits of this 15 minutes )
+Leadership team will not get the idea of not having a gantt chart with resource allocations , for a specif period and finally can lead to misjudgment of the progress of the project (Again it is Agile coach’s job to make that right )
+If distributed agile is not properly facilitated with logistics, Audio Visual meeting facilities , distributed agile teams can get worst as they will really feel frustrated following the cadence in different locations . (Agile coach and leadership teams should implement proper distrusted agile and should be facilitated with technology and equipment )
+If not properly implement dev projects in agile can really increase technical debt .
+If the planning is done once in every two weeks (iteration ) then the systems team can really suffer to accommodate the changes. So it can really become messy as they will try to implement to support the two weeks objectives (That is why agile implementation needs to be an enterprise agile exercise from top to bottom. All processes need to be agile. Also continuous integration should be supported , facilitated with the necessary skills, tools"
+https://www.quora.com/What-are-some-downsides-of-Agile,Julya van Berkel,Scrum and Agile coach since 2006,2017,2,"Question: What are the drawbacks of Agile?
+What is the drawback of discipline?
+What is the drawback of flexibility?
+What is the drawback of creating value?
+Everything has drawbacks, but it comes down to what you use it for, what you are trying to achieve, where you are coming from, etc.
+To really answer this question I would need more information. Drawbacks in which situation?
+The focus of the question seems to be to find out what is negative about Agile. But what can be negative about a mindset. No one is asking you to adopt the mindset. And you have to offset it to something.
+When you come from a more traditional organization the drawback can be that Agile requires the whole organization to change to make the most out of the Agile mindset.
+Often Agile is just introduced into a part of the organization. That will lead to misunderstanding and conflicts with the parts of the organization that have not been taken along in the mindset change.
+Another possible drawback can be that it is seen as a silver bullet or golden hammer. Agile is a powerful thing and has many passionate fans. The passion can be infectious, though the mindset might not be there yet.
+What I also notice is that since Agile is a mindset it is not easy to achieve. Getting Agile requires inspect and adapt and that is hard to teach without help. I see questions about “what is the best online course for Agile” and the like. I am hard pressed to answer those. Agile is best learned in the field, by doing your work in an Agile environment, or work in/with and Agile team. That is hard to learn through books and online information."
+https://www.quora.com/What-are-some-downsides-of-Agile,John Lee,Lived in The United States of America,2020,3,"5 Key Disadvantages of Agile Methodology
+Poor resource planning
+Limited documentation
+Fragmented output
+No finite end
+Difficult measurement"
+https://www.quora.com/What-are-some-downsides-of-Agile,Piers Campbell,"18 years experience in building, coaching and leading teams",2022,2,"There is one key disadvantage to agile that is preventing organisations, teams and individuals from adopting it fully and making lasting improvements to the way it works.
+No one really knows what it means.
+Which is to say, there are a set of principles that provide a framework in software development to solve a set of problems from twenty years ago, but there is no real consensus on what agile means outside of that context. People with experience of working with an agile mindset, tools and frameworks will have some common ground, but there are other people with literally no understanding of it that will stick the word ‘agile’ in front of any old nonsense to try to make some money out of it.
+A lot of time is wasted over discussion of what is or isn’t agile which would be much better spent improving the situation of customers and teams. Or to put it another way, emphasising people and interactions over processes and tools!"
+https://www.quora.com/What-are-some-downsides-of-Agile,Aadarsh Patel,"Lives in Pune, Maharashtra, India (2008–present)",2023,455,"Advantages of Agile Project Management
+You can deploy software quicker, so your customer can get value sooner rather than later
+You waste fewer resources because you always work on up-to-date tasks
+You can better adapt to change and respond faster
+Faster turnaround times
+You can detect and fix issues and defects faster
+You spend less time on bureaucracy and busywork
+There's a big community of Agile practitioners with whom you can share knowledge
+You can get immediate feedback (which also improves team morale)
+Developers can improve their skills based on QA feedback
+You don't have to worry about premature optimization
+You can experiment and test ideas because its costs are low
+Disadvantages of Agile Project Management
+Agile has substantial advantages, and it's important to know the disadvantages, limitations, and risks it brings.
+Documentation tends to get sidetracked, which makes it harder for new members to get up to speed
+It's more difficult to measure progress than it is in Waterfall because progress happens across several cycles
+Agile demands more time and energy from everyone because developers and customers must constantly interact with each other
+When developers run out of work, they can't work on a different project since they'll be needed soon
+Projects can become ever-lasting because there's no clear end
+Scope creep and experience rot
+Clients who work on a specified budget or schedule can't know how much the project will actually cost, which makes for a very complicated sales cycle (""Until iteration ends,"" is not something clients like to hear)
+The product lacks overall design, both from a UX and architecture point of view, which leads to problems the more you work on the product
+Teams can get sidetracked into delivering new functionalities at the expense of technical debt, which increases the amount of unplanned work
+Features that are too big to fit into one or even several cycles are avoided because they don't fit in nicely into the philosophy
+You need a long-term vision for the product and actively work on communicating it
+Products lack cohesion, and the user journey is fragmented because the design is fragmented. The more time passes, the more disjointed the software ends up becoming
+Short cycles don't leave enough time for the design thinking process, so designers have to redevelop the experience over and over due to negative feedback
+Check here for some more Scrum sprint planning anti-patterns and product backlog and refinement anti-patterns"
+https://www.quora.com/What-are-some-downsides-of-Agile,Agilemania,Agilemania is to be the Preferred Agile Company and partner.,2022,455,"As with other software development approaches (such as the waterfall model, the V-model, the iterative model, etc.), the Agile development model is a methodology for creating software, in addition to being a form of agile method. Software is created in quick, incremental cycles. Agile is an important component of Agile software development and signifies ""the capacity to move swiftly and effortlessly"" and adapt to change quickly in English.
+Advantages of Agile Methodology :
+In Agile methodology the delivery of software is unremitting.
+The customers are satisfied because after every Sprint working feature of the software is delivered to them.
+Customers can have a look of the working feature which fulfilled their expectations.
+If the customers has any feedback or any change in the feature then it can be accommodated in the current release of the product.
+In Agile methodology the daily interactions are required between the business people and the developers.
+Disadvantages of the Agile Methodology :
+In Agile methodology the documentation is less.
+Sometimes in Agile methodology the requirement is not very clear hence it’s difficult to predict the expected result.
+In few of the projects at the starting of the software development life cycle it’s difficult to estimate the actual effort required."
+https://www.quora.com/What-are-some-downsides-of-Agile,Nabarun Mondal,Engineering Leader with 20 years of Experience,2021,26,"Agile is NOT a methodology. It is a mindset.
+Team must deliver faster, simpler, workable code.
+The only success criterion of agile is how much time saving it had.
+If using other mindset it used to be delivered in X hours,
+and Agile can do it in 0.1X hours, agile mindset has own.
+Anywhere it is not possible to do, agile is at disadvantage. That includes every possible “serious” Engineering domain.
+Agile will not work, does not work anywhere serious Engineering is required - build engine of SpaceX rocket.
+If someone is actually developing a kernel - even then I do not think Agile works."
+https://www.quora.com/What-are-some-downsides-of-Agile,Ram Kumar,5y,2019,2,"The downside of using Scrum is that passionate engineers may see it as micro-management and may just pack-up and leave the team/company instead of fighting it. One of the best things about startups, especially early-stage ones is that you wont find things like Scrum there, which is why passionate engineers gravitate towards startups.
+Another big downside is that you will succeed in attracting the kind of engineers that you don’t really want. These are engineers who are bit political and like playing the scrum game and are not really that keen on getting things done. They are typically middle-aged engineers who have a busy family life and are really looking for a 9-to-5 or 10-to-6 job. They will focus on completing their stories for the Sprint and nothing else. I have seen several such engineers some of whom may even have some side projects/businesses going on. They seem to love Scrum."
+https://www.quora.com/What-are-some-downsides-of-Agile,Amy,Former S.D.E III,2022,2,"Agile has several advantages and disadvantages. If you want to decide whether or not to buy this CRM, you must first determine what features you require. The advantages and disadvantages of Agile CRM are listed below.
+Pros of Agile:
+Reasonable pricing
+One of the most excellent email marketing tools
+Contact management made simple
+Automated sales pipeline system makes it simpler to close business
+Easy-to-use configuration and administration interface, even for beginners
+Cons of Agile:
+For the Starter package, just one integration option is provided
+Buggy email capabilities
+Third-party integration difficulties
+Limited third-party integrations
+Limited service automation functionalities
+Lack of reporting"
+https://www.quora.com/What-are-some-downsides-of-Agile,Simon Kinahan,Product Engineering Group Director at Cadence Design Systems (company) (2011–present),2014,3,"I'll document my personal experiences. We were very successful in a previous company in moving to an agile model to try to better accomodate changing requirements. However, there are some drawbacks:
+1. It can be frustrating for the customers of a product company. Agile methodologies make it hard for customers to plan, because the development team cannot give hard delivery dates for functionality beyond the current iteration. Customers in business where they have manufacturing deadlines cannot live with this, so we had to adopt a semi-agile model where certain functionality had to be estimated, planned and tracked across iterations and engineering time reserved to make sure it made progress even if from a purist agile perspective it was not the highest priority right then.
+2. Developers may wait for the customer team to report issues they already know have bad consequences, because its easier than announcing that there is a problem and then trying to persuade the customer side to prioritize fixing it. This led to some accumulation of poor design decisions in the code, which then needed a relatively large not-very-agile effort to rip out and fix.
+3. The emphasis on not planning and designing is fine where tests and customer usage will find issues, but with mathematically deep modelling and optimization, its a bad idea. At this level, requirements and approaches have to be carefully spelled out in as much detail (including maths and pseudocode as necessary) as possible to make sure eveyone understands the consequences of the decisions being made. The amount of work in implementing these things has to span iterations, so some up-front effort is needed to ensure the direction is right. Otherwise you end up with very large amounts of code that don't do what was needed, but also cannot realistically be incrementally improved."
+https://www.quora.com/What-are-some-downsides-of-Agile,Con Bradley,software engineering and product manager,2015,5,"To me Agile is far worse than what is supposed to replace and ironically what does not seem to follow its own declared principles specifically this one: ""We value Individuals and interactions over processes and tools"". Agile is very process heavy and very dogmatic. Consider for example the length of a sprint or the size of a team. These should be flexible but instead are set in concrete by the process masters. Generally I think the principles of Agile are correct but their application is dogmatic, also The Agile principles say nothing about quality which is a serious omission IMHO"
+https://www.quora.com/What-are-some-downsides-of-Agile,Fred Wilson,Agile & Software Consultant at nTask (2014–present),2019,4,"There is no one-size-fits-all approach when it comes to Agile frameworks. It is important to understand the type of organization, the team, and the project category before identifying and adopting a suitable project development approach.
+A key difference you can keep in mind while assessing Scrum vs other Agile methodologies for your project and team requirements may be if you need a more structured approach and the customer is specific about the requirements from the beginning to end, Scrum seems to be a more likely option.
+However, if the pattern is not fixed and the customer is flexible as long as the product is being improved continuously, Kanban may be your thing.
+If unsure, you can attempt to understand both approaches and carry out an experiment with small, non-critical projects. This will help you better assess which approach gives you more value and helps you reach your project goals faster and efficiently.
+As mentioned above, you can even look into a “Scrumban” approach – which I’ll discuss shortly – that allows you to combine aspects of both these methodologies and you can customize it according to requirements."
+https://www.quora.com/What-are-some-downsides-of-Agile,Raveesh Rai,Product Management,2022,0,"If not implemented in a right setting, i think agile/scrum will do more damage than benefit. The right setting I mean is more around the agile manifesto principles.
+Also, if there is a lack of support from leadership, compatibility gap between teams, in-effective clarity of purpose and so on it’ll be more painful to operate in agile than traditional established methods."
+https://www.quora.com/What-are-some-downsides-of-Agile,Chuck Cobb,Agile Project Mgt Author and Instructor (Over 200K Students),2020,2,"There are no problems with Agile itself that I am aware of; however, there are problems with how it is applied:
+Some companies try to just do Agile without doing any organizational transformation to make it work
+Many teams try to do Agile mechanically without really understanding it at a deeper level. As a result, the implementation is often rigid and inflexible
+There’s a lot of hype about Agile and many Agile consultants promote Agile as a solution to almost any problem you might have.
+There also many stereotypes and misconceptions about Agile and Waterfall. Many people think that there is a binary and mutually-exclusive choice between those extremes and try to force-fit a project to one or the other. It takes more skill to blend a plan-driven and an adaptive"
+https://www.quora.com/What-are-some-downsides-of-Agile,Raviteja Chirala,Engineer by choice!,2015,10,I am not a big fan of Agile Product Development. The biggest disadvantage of Agile is not following Agile properly. I have seen people pushing engineers to meet deadlines everyday and focus on new task ignoring the most critical parts like Perfection and performance. It's not how fast you finish or saying that you have finished it. Instead one should assess time properly and give reasonably sufficient time to finish off a task.
+https://www.quora.com/What-are-some-downsides-of-Agile,Riley Claire,Software Test Engineer | Technophile | Blogger,2023,0,"While incremental delivery might assist get products to market faster, it is also a significant downside of Agile approach. Because when teams work on each component in separate cycles, the overall result typically becomes quite fragmented rather than a coherent entity.
+5 Key Disadvantages of Agile Methodology are as follows:
+Poor resource planning
+Limited documentation
+Fragmented output
+No finite end
+Difficult measurement"
+https://www.quora.com/What-are-some-downsides-of-Agile,Sam Granville,Project Management Guru | IT Project Development,2020,0,"The common drawbacks are as follows:
+Scrum often leads to scope creep, due to the lack of a definite end-date.
+The chances of project failure are high if individuals aren't very committed or cooperative.
+Adopting the Scrum framework in large teams is challenging.
+The framework can be successful only with experienced team members.
+Daily meetings sometimes frustrate team members
+If any team member leaves in the middle of a project, it can have a huge negative impact on the project
+Quality is hard to implement until the team goes through an aggressive testing process"
+https://www.quora.com/What-are-some-downsides-of-Agile,Tushar Jain,"Agile coach, trainer, author, speaker, eager learner, ...",2017,0,"If there are any drawbacks in short and numerous feedback cycles, trust among team members, always customer present, delivering value incrementally, and evolving requirements the Agile has all of those.
+The real question should be how can I use characteristics listed above in my ..."
+https://www.quora.com/What-are-some-downsides-of-Agile,Chuck Cobb,Agile Project Mgt Author and Instructor (Over 200K Students),2022,0,"A pure Agile approach does not provide a good framework for managing project costs and schedules if that is important. As a result, it is difficult to apply to a contracting situation. However, that does not preclude the use of a hybrid Agile approach. Here’s an article with more detail on that:
+Agile Contracts - How Do They Work?
+Some people may think that you can't impose typical cost and schedule constraints required by contracts on an Agile project, but it definitely can be done.
+https://managedagile.com/agile-contracts/"
+https://www.quora.com/What-are-some-downsides-of-Agile,David Crowe,Works at Starfleet,2022,0,"It forces a change in the way people think about problems. This could make it impossible in some environments, and downright risky in some cultures."
+https://www.quora.com/What-are-some-downsides-of-Agile,Ganesh,Associate Manager at Virtusa (company) (2019–present),2019,0,There is no drawback If you know which project should follow agile. There are projects which should be done by waterfall.
+https://www.quora.com/What-are-some-downsides-of-Agile,Yuvaraj Mohite,Agile and Devops Coach,2021,0,The disadvantages are mostly people make it very prescriptive rather than understanding the guiding principles. Also it is a most common excuse to work ad-hoc under the guise of Agility.
+https://www.quora.com/What-are-some-downsides-of-Agile,Mark Levison,"Certified Scrum Trainer, Consultant (2009–present)",2020,0,"All work has many risks:
+You will discover no one wants the thing you’re building
+You will discover your team isn’t capable of doing the work with good quality
+..or that their technical skills aren’t up to the job
+You will discover that your team doesn’t like working together and you don’t gel.
+Agile or not, all knowledge work has these risks. Agile approaches (there isn’t one ‘Agile’) will just force you to deal with them sooner."

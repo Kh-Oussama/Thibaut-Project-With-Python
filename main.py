@@ -1,4 +1,4 @@
-
+#
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
@@ -10,10 +10,7 @@ from dateutil.relativedelta import relativedelta
 
 # List of URLs to scrape
 urls = [
-    "https://www.quora.com/In-a-nutshell-why-do-a-lot-of-developers-dislike-Agile-What-are-better-project-management-paradigm-alternatives",
-    "https://www.quora.com/Do-programmers-really-like-Scrum",
-    "https://www.quora.com/What-is-agile-methodology-and-what-are-the-advantages-and-disadvantages-of-agile-methodology",
-    "https://www.quora.com/What-are-the-disadvantages-of-agile-software-development"
+    "https://www.quora.com/What-are-some-downsides-of-Agile",
 ]
 
 # Initialize WebDriver
@@ -56,12 +53,12 @@ for url in urls:
         )
         dropdown_item.click()
         print("Clicked the 'Answers' dropdown item.")
+        # Scroll down incrementally to load all dynamic content
+        last_height = driver.execute_script("return document.body.scrollHeight")
+
 
         # Allow the dropdown to process
         time.sleep(10)
-
-        # Scroll down incrementally to load all dynamic content
-        last_height = driver.execute_script("return document.body.scrollHeight")
 
         while True:
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
@@ -71,6 +68,7 @@ for url in urls:
                 break
             last_height = new_height
 
+        time.sleep(10)
         # Locate all posts (boxes)
         boxes = driver.find_elements(By.XPATH, "//*[contains(@class, 'dom_annotate_question_answer_item_')]")
         print(f"Number of boxes found: {len(boxes)} for URL: {url}")
@@ -141,15 +139,26 @@ for url in urls:
                 except:
                     review = "N/A"
 
-                # Append the extracted information to the list
-                data.append({
+                print("URL:", url)
+                print("Author:", author)
+                print("Author Description:", author_description)
+                print("Publication Date:", publication_date)
+                print("Votes:", votes)
+                print("Review:", review)
+
+
+                item = {
                     "URL": url,  # Add URL for each entry
                     "Author": author,
                     "Author Description": author_description,
                     "Publication Date": publication_date,
                     "Votes": votes,
                     "Review": review
-                })
+                }
+
+
+                # Append the extracted information to the list
+                data.append(item)
 
             except Exception as extract_error:
                 print(f"Error extracting content from box {index + 1} on {url}: {extract_error}")
@@ -164,7 +173,69 @@ driver.quit()
 df = pd.DataFrame(data)
 
 # Export the combined DataFrame to CSV and Excel files
-df.to_csv('combined_scraped_data.csv', index=False)
-df.to_excel('combined_scraped_data.xlsx', index=False)
+df.to_csv('scraped_data_1.csv', index=False)
+df.to_excel('scraped_data_1.xlsx', index=False)
 
 print("Data has been saved to CSV and Excel files.")
+
+# import os
+#
+# PYPPETEER_CHROMIUM_REVISION = '1263111'
+# os.environ['PYPPETEER_CHROMIUM_REVISION'] = PYPPETEER_CHROMIUM_REVISION
+#
+# from bs4 import BeautifulSoup
+# from requests_html import HTML, HTMLSession
+# import numpy as np
+# import pandas as pd
+#
+# # URL to scrape
+# url = "https://news.ycombinator.com/item?id=20325096"
+#
+# # Initialize an HTML session
+# session = HTMLSession()
+# response = session.get(url)
+#
+#
+# # Render the JavaScript on the page and scroll down to load more content
+# response.html.render()
+#
+# # Re-parse the HTML after rendering
+# soup = BeautifulSoup(response.html.html, 'html.parser')
+#
+# # Extract the comments section
+# comments = soup.select('tr.comtr')
+#
+# # Initialize a list to store extracted data
+# data = []
+#
+# # Loop through each comment
+# for index, comment in enumerate(comments):
+#     # Find the author
+#     author = comment.find('a', class_='hnuser').get_text() if comment.find('a', class_='hnuser') else "N/A"
+#     # Find the date
+#     date = comment.find('span', class_='age').get_text() if comment.find('span', class_='age') else "N/A"
+#     # Find the comment text
+#     comment_text = comment.find('div', class_='commtext c00').get_text() if comment.find('div',
+#                                                                                          class_='commtext c00') else "N/A"
+#     # Append the data to the list as a dictionary
+#     data.append({
+#         "Author": author,
+#         "Publication Date": date,
+#         "Review": comment_text
+#     })
+#
+#     # Print the extracted information
+#     print(f"Box {index + 1} content:")
+#     print(f"Author: {author}")
+#     print(f"Publication Date: {date}")
+#     print(f"Review:\n{comment_text}")
+#     print("-" * 50)
+#
+# # Convert the list of dictionaries into a pandas DataFrame
+# df = pd.DataFrame(data)
+#
+# # Export the DataFrame to CSV and Excel files
+# df.to_csv('scraped_data_second_4.csv', index=False)
+# df.to_excel('scraped_data_second_4.xlsx', index=False)
+#
+# print("Data has been saved to CSV and Excel files.")
